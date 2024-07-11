@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyAssignment</string>
+    <string name="search_hint">Search</string>
+    <string name="title_activity_main_compose">MainActivityCompose</string>
+</resources>
