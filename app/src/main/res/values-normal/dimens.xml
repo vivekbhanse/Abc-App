@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="sixteen">14dp</dimen>
+    <dimen name="txt_sixteen">18sp</dimen>
+    <dimen name="sixty">55dp</dimen>
+    <dimen name="eight">7dp</dimen>
+    <dimen name="twelve">12dp</dimen>
+    <dimen name="threehundred">300dp</dimen>
+</resources>

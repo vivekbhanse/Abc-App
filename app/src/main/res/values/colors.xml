@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="grey">#afb4b2</color>
+    <color name="grey_green">#EEF3F0</color>
+    <color name="light_green">#f5fbf8</color>
+    <color name="dark_green">#d0e9e3</color>
+    <color name="hint_text_color">#A6A2A2</color>
+    <color name="my_light_primary">#399bda</color>
+    <color name="tm_core_color_blue_100">#B8D1F5</color>
+    <color name="tm_core_color_blue_90">#CFDDED</color>
+    <color name="tm_core_color_blue_500">#1b69de</color>
+    <color name="banner_inactive">#ECECEC</color>
+</resources>
